@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['94740482244']
+  const ownerNumber = ['94704349801']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -73,7 +73,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const prefix = "LUCIFER-MD~";
+    const prefix = "HIRUWA-MD~";
     
     if (config.SESSION_ID.startsWith(prefix)) {
         try {
@@ -219,7 +219,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const ikratos = ('94740482244', '94757660788', '94789958225');
+    const ikratos = ('94704349801', '94704349801', '94704349801');
     let isCreator = [udp, ikratos, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
