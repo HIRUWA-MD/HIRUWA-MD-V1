@@ -92,7 +92,7 @@ async function downloadSessionData() {
             return false;
         }
     } else {
-        console.error('❌ SESSION_ID must start with "HiRUWA-MD~" prefix!');
+        console.error('❌ SESSION_ID must start with "DORA-MD~" prefix!');
         return false;
     }
 }
