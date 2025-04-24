@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *🧬 Version*: 3.0.0 BETA
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʜɪʀᴜᴡᴀ ᴍᴅ`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363369260614615@newsletter',
-                    newsletterName: 'ᴀᴡᴀɪs ᴍᴅ',
+                    newsletterName: 'ʜɪʀᴜᴡᴀ ᴍᴅ',
                     serverMessageId: 143
                 }
             }
