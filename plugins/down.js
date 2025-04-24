@@ -10,7 +10,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗗 🥵🖤*";
+const yourName = "*𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 🥵🖤*";
 
 //twitter dl (x)
 cmd({
@@ -52,7 +52,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
         if (!q && !q.startsWith("https://")) return reply("give me gdrive url")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/gdrivedl?url=${q}`)
-        reply("*𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗗 𝗚𝗗𝗥𝗜𝗩𝗘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 📥*")
+        reply("*𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 𝗚𝗗𝗥𝗜𝗩𝗘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 📥*")
         await conn.sendMessage(from, { document: { url: data.data.download }, fileName: data.data.fileName, mimetype: data.data.mimeType, caption: `${data.data.fileName}\n\n${yourName}` }, { quoted: mek })                                                                                                                 
     } catch (e) {
         console.log(e)
