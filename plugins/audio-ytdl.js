@@ -41,7 +41,7 @@ cmd({
 
         const { url, title, image, timestamp, ago, views, author } = data.results[0];
 
-        let info = `📥 *𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗗 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗* 📥\n\n` +
+        let info = `📥 *𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗* 📥\n\n` +
             `🎵 *Title:* ${title || "Unknown"}\n` +
             `⏳ *Duration:* ${timestamp || "Unknown"}\n` +
             `👀 *Views:* ${views || "Unknown"}\n` +
