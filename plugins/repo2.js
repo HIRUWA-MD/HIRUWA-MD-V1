@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/LUCIFER-MD/LUCIFER-MD-V1';
+    const githubRepoURL = 'https://github.com/HIRUWA-MD/HIRUWA-MD-V1';
 
     try {
         // Extract username and repo name from the URL
@@ -39,7 +39,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363402653537145@newsletter',
-                    newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                    newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                     serverMessageId: 143
                 }
             }
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363402653537145@newsletter',
-                    newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                    newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                     serverMessageId: 143
                 }
             }
