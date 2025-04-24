@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥𝗦:*
-*|* *𝗖𝗬𝗕𝗘𝗥 𝗗𝗘𝗫𝗧𝗘𝗥*
+*|* *𝗛𝗜𝗥𝗨𝗪𝗔*
 
-> *𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗥 𝗥𝗘𝗣𝗢:*
-*|* *https://github.com/LUCIFER-MD/LUCIFER-MD-V1*
+> *𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 𝗥𝗘𝗣𝗢:*
+*|* *https://github.com/HIRUWA-MD/HIRUWA-MD-V1*
 
 > *𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟:*
-*|* *https://whatsapp.com/channel/0029Vb65fgKFCCoNeWbtMN2X*
+*|* *https://whatsapp.com/channel/0029Vb5DujFLdQeWfiqIk740*
 *╰──────────────●●►*
 
-> *🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥*
+> *🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -32,15 +32,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363402653537145@newsletter',
-      newsletterName: "🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥",
+      newsletterName: "🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥",
       serverMessageId: 999
     },
 externalAdReply: { 
 title: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿➝💥',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/LUCIFER-MD/LUCIFER-MD-V1" ,
-thumbnailUrl: "https://files.catbox.moe/x04f5n.jpg" ,
+sourceUrl: "https://github.com/HIRUWA-MD/HIRUWA-MD-V1" ,
+thumbnailUrl: "https://files.catbox.moe/ey7qsm.png" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
