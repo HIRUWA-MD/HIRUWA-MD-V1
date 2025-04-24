@@ -48,7 +48,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -118,7 +118,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -126,7 +126,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -193,7 +193,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -201,7 +201,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -249,7 +249,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -257,7 +257,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -313,7 +313,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -356,7 +356,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -364,7 +364,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -415,7 +415,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -423,7 +423,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -464,7 +464,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -472,7 +472,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -517,7 +517,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -525,7 +525,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -567,7 +567,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -575,7 +575,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
+                        newsletterName: '🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥',
                         serverMessageId: 143
                     }
                 }
@@ -603,13 +603,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━〔 *𝐁𝐔𝐆 𝐌𝐄𝐍𝐔* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9218****)
-┃◈┃• 𝑿𝑫(+9218****)
-┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92318****)
-┃◈┃• 𝑻𝑬𝑴𝑷𝑩𝑨𝑵(+92*****)
+┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9418****)
+┃◈┃• 𝑿𝑫(+9418****)
+┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92418****)
+┃◈┃• 𝑻𝑬𝑴𝑷𝑩𝑨𝑵(+94*****)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑼𝑺𝑬 𝑻𝑯𝑰𝑺 𝑪𝑴𝑫 𝑰𝑵 𝑮𝑪)
-┃◈┃• 𝑩𝑼𝑮(+9218******)
+┃◈┃• 𝑩𝑼𝑮(+9418******)
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.CAPTION}`;
@@ -617,7 +617,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/x04f5n.jpg` },
+                image: { url: `https://files.catbox.moe/ey7qsm.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -625,7 +625,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: '𓆩🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥𓆪',
+                        newsletterName: '𓆩🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥𓆪',
                         serverMessageId: 143
                     }
                 }
