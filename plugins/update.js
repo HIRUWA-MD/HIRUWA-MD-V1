@@ -1,4 +1,4 @@
-// 🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥 Don't Change Credits 💸
+// 🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥 Don't Change Credits 💸
 
 const { cmd } = require("../command");  
 const axios = require('axios');  
@@ -22,7 +22,7 @@ cmd({
     await reply("```🔍 Checking for LUCIFER-MD-V1 updates...```\n");  
       
     // Get latest commit from GitHub  
-    const { data: commitData } = await axios.get("https://github.com/LUCIFER-MD/LUCIFER-MD-V1/commits/main");  
+    const { data: commitData } = await axios.get("https://github.com/HIRUWA-MD/HIRUWA-MD-V1/commits/main");  
     const latestCommitHash = commitData.sha;  
 
     // Get current commit hash  
@@ -35,10 +35,10 @@ cmd({
     }  
 
     if (latestCommitHash === currentHash) {  
-      return reply("```✅ Your LUCIFER-MD-V1 bot is already up-to-date!```\n");  
+      return reply("```✅ Your HIRUWA-MD-V1 bot is already up-to-date!```\n");  
     }  
 
-    await reply("```LUCIFER-MD-V1 Bot Updating...🚀```\n");  
+    await reply("```HIRUWA-MD-V1 Bot Updating...🚀```\n");  
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
@@ -96,4 +96,4 @@ function copyFolderSync(source, target) {
   }  
 }
 
-//  🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥
+//  🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥
