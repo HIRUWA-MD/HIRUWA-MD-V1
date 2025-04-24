@@ -10,7 +10,7 @@ cmd({
     react: "✅",
     desc: "Pairing code",
     category: "download",
-    use: ".pair +94740482𝗫𝗫𝗫",
+    use: ".pair +947043492𝗫𝗫𝗫",
     filename: __filename
 }, 
 async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
@@ -20,12 +20,12 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Validate input
         if (!q) {
-            return await reply("*Example -* .pair +9474048224𝗫𝗫𝗫");
+            return await reply("*Example -* .pair +94704349𝗫𝗫𝗫");
         }
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://awais-md-pair.onrender.com/code?number=${q}`);
+        const response = await fetch(`https://hiruwa-md-pair.onrender.com/code?number=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
@@ -35,7 +35,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Success response
         const pairingCode = pair.code;
-        const doneMessage = "> *𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗗 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗦𝗨𝗖𝗖𝗘𝗦𝗦 🧩⚠️*";
+        const doneMessage = "> *𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗦𝗨𝗖𝗖𝗘𝗦𝗦 🧩⚠️*";
 
         // Send first message
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
