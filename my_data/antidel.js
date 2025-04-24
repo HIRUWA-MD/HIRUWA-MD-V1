@@ -85,4 +85,4 @@ module.exports = {
     getAllAntiDeleteSettings,
 };
 
-// codes by Astro
+// codes by HiRUWA
