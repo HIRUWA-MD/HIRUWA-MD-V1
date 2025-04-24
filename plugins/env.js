@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗠𝗗 🥵🖤* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 𝗛𝗜𝗥𝗨𝗪𝗔 𝗠𝗗 🥵🖤* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *𝗘𝗡𝗩 𝗦𝗘𝗧𝗧𝗜𝗡𝗚 🛠️*
 ┃▸└───────────···๏
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://files.catbox.moe/x04f5n.jpg' }, // Image URL
+                image: { url: 'https://files.catbox.moe/ey7qsm.png' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363402653537145@newsletter',
-                        newsletterName: "🧑‍💻⃝𝙇𝙐𝘾𝙄𝙁𝙀𝙍 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥",
+                        newsletterName: "🧑‍💻⃝𝙃𝙞𝙍𝙐𝙒𝘼 𝙈𝘿 𝙏𝙀𝘾𝙃➝💥",
                         serverMessageId: 143
                     }
                 }
