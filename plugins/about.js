@@ -56,7 +56,7 @@ let about = `
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴛᴇᴀᴍ 🧑‍💻
 `
 
-await conn.sendMessage(from,{image:{url:`https://files.catbox.moe/x04f5n.jpg`},caption:about,
+await conn.sendMessage(from,{image:{url:`https://files.catbox.moe/ey7qsm.png`},caption:about,
                              contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
